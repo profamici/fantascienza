@@ -3,6 +3,7 @@
 Questo repository contiene materiali di approfondimento sulla serie **_Foundation_**.
 
 📄 [**Scheda di visione**](https://raw.githubusercontent.com/profamici/fantascienza/main/Foundation-La_pace_dellimperatore.pdf) 
+
 📄 [**La fantascienza sociologica in Foundation: il futuro come specchio della storia**](La fantascienza sociologica in Foundation.pdf)
 
 ## Descrizione
