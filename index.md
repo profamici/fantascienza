@@ -9,6 +9,8 @@ Questo repository contiene materiali di approfondimento sulla serie **_Foundatio
 ## Descrizione
 La scheda propone un percorso di analisi e riflessione sul primo episodio della serie *Foundation*, con particolare attenzione ai temi del potere, della fede nella scienza e del rapporto tra individuo e impero.
 
+Il secondo documento è un approfondimento sulle caratteristiche di fantascienza sociologica della serie tv e dei libri di Asimov.
+
 ## Utilizzo
 
 È consentito l'utilizzo solo per scopo didattico
