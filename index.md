@@ -3,17 +3,13 @@
 Questo repository contiene materiali di approfondimento sulla serie **_Foundation_**.
 
 📄 **Scheda di visione:**  
-[Foundation – La pace dell’Imperatore (PDF)](https://github.com/profamici/fantascienza/blob/main/Foundation-La_pace_dellimperatore.pdf)
-
 ---
 
 ## Descrizione
 La scheda propone un percorso di analisi e riflessione sul primo episodio della serie *Foundation*, con particolare attenzione ai temi del potere, della fede nella scienza e del rapporto tra individuo e impero.
 
 ## Utilizzo
-Puoi:
-- visualizzare il PDF direttamente su GitHub (link sopra), oppure  
-- scaricarlo con [questo link diretto](https://raw.githubusercontent.com/profamici/fantascienza/main/Foundation-La_pace_dellimperatore.pdf)
+- scarica la scheda con [questo link diretto](https://raw.githubusercontent.com/profamici/fantascienza/main/Foundation-La_pace_dellimperatore.pdf)
 
 ---
 
